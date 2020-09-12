@@ -548,7 +548,6 @@ a {
 
 
 .cart {
-    
     display: flex;
     flex-wrap: wrap;
     padding-top: 34px;
@@ -601,11 +600,11 @@ a {
 }
 
 .img-galery:nth-child(3n) {
-    margin-right: 0px;
+    margin-right: 0;
 }
 
 .img-galery:nth-last-of-type(-n+3) {
-    margin-bottom: 0px;
+    margin-bottom: 0;
 }
 
 .text-item {
